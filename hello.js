@@ -66,5 +66,5 @@ function sayHello(name) {
     return msg;
 }
 
-console.log(sayHello("Georgio"));
+console.log(sayHello("Georgiou"));
 
